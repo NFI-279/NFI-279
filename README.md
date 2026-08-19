@@ -9,7 +9,7 @@ I'm a Junior Software Developer and final-year Computer Science student at the F
 
 ## 🚀 Featured Projects
 * **[Food Trailer POS & QR Ecosystem](https://github.com/Nfi-279/Insert-Repo-Name-Here)** - A waitstaff-free digital ordering system utilizing a Next.js/NestJS architecture. I implemented atomic database transactions via Prisma to handle concurrent requests and prevent negative inventory.
-* **[Rust Automated Irrigation System](https://github.com/Nfi-279/Insert-Repo-Name-Here](https://github.com/NFI-279/Rust-Irrigation-System))** - A smart hardware-software integration running on a NUCLEO-F411RE microcontroller via the embassy async framework, featuring custom UART communication and dynamic telemetry processing.
+* **[Rust Automated Irrigation System]((https://github.com/NFI-279/Rust-Irrigation-System))** - A smart hardware-software integration running on a NUCLEO-F411RE microcontroller via the embassy async framework, featuring custom UART communication and dynamic telemetry processing.
 * **Secure Software Loader & Authentication API** ([Loader Repo](https://github.com/NFI-279/Loader-API) | [Auth API Repo](https://github.com/NFI-279/Server-API)) - A C++ client-server architecture engineered to manage secure software distribution, user sessions, and hardware-bound authentication.
 * **Practice Management Software** *(Private)* - A dedicated application tailored for Romanian accounting cabinets to streamline workflows and data processing using PostgreSQL and NestJS.
 
